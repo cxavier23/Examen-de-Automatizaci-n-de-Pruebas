@@ -4,7 +4,7 @@ Este proyecto tiene como objetivo automatizar la búsqueda de productos de **Pla
 
 ## Requisitos
 
-- Python 3.x
+- Python 
 - Playwright para Python
 
 ## Instalación
